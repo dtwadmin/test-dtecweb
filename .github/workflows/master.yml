@@ -17,4 +17,4 @@ jobs:
         server: test.dtecweb.com.br
         username: test-dtecweb@test.dtecweb.com.br
         password: 8XT6Z2VB5S
-        server-dir: /home/dtecweb/subdomains/bdomain/test
+        server-dir: /home/dtecweb/subdomains/bdomain/test/
